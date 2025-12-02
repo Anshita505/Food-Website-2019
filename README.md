@@ -49,7 +49,7 @@ Each page features:
 1. **Download or clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/foodcourt-website.git
+   git clone https://github.com/Anshita505/Food-website-2019.git
    ```
 2. Open the project folder.
 3. Double click `index.html` to open it in your browser.
@@ -75,3 +75,6 @@ This project was created while learning HTML/CSS from Codecademy. It serves as a
 <img width="1430" height="765" alt="Screenshot 2025-12-02 at 8 27 39 PM" src="https://github.com/user-attachments/assets/f27362b0-9a6e-4439-a00c-074226f90b4b" />
 
 Designed and coded by **Anshita Mehra**.
+
+
+##This is my old Project, uploading late
