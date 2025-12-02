@@ -1,0 +1,162 @@
+body {
+    
+
+    
+    background-color: navajowhite;
+    margin: 0;
+}
+#imge{
+    width:600px;
+    height: 600px;
+    margin-left: 300px;
+    
+}
+#imge2{
+    width: 200px;
+    height: 100px;
+}
+.header{
+    text-align: center;
+
+    
+    color: black;    
+    padding: 10px 0 22px 8px ;
+    border: 10px solid black;
+    
+    
+    
+}
+.con{ width: 1009px;
+    height:1095px;
+    
+    margin:0 auto;
+background-color: antiquewhite;
+    color:darkslategray;
+    
+}
+.menu{
+    padding: 5px 3px 0px 2px;
+    background-color: palevioletred;
+    text-align: left;
+}
+#hello{
+    color:black;
+}
+.menu a{
+    font-size: 20px;
+    color:black;
+    text-decoration:none;
+    font-family: "Arial Narrow","Myriad Pro";
+    
+    font-family: "fantacy";
+}
+.menu a:hover{
+    color: greenyellow;
+}
+
+#home-image img{
+    
+    width: 90%;
+}
+aside{
+    float: left;
+    width: 150px;
+    padding:10px 0px 0 10px;
+    
+}
+h1{
+    font-size: 20px;
+    color: grey;
+    margin: 0;
+    font-family:"Arial Narrow","Myriad Pro";
+    
+}
+h2{
+    color: firebrick;
+    font-size: 16px;
+    margin: 20px 0 5px 0;
+}
+.main{
+    margin: 0 0 0 180px;
+    padding:  10px 15px 10px 10px;
+    font-family: "Georgia";
+    color:black;
+    font-size: 16px;
+    line-height: 20px;
+    text-emphasis:justify;
+    
+}
+footer{
+    padding: 10px 5px 4px 4px;
+    background:grey;
+    font-family: "Lucida Sans Unicode"
+        color: green;
+    font-size: 15px;
+    text-decoration:right;}
+
+footer a{
+    text-decoration: none;
+    color: black;
+}
+.link-title{
+    font-size: 24px;
+    text-decoration: none;
+    color: gainsboro;
+    
+}
+.separator{
+    color:wheat;
+    font-size: 12px;
+    
+}
+#home-image {
+    width: 70%;
+    
+}
+/***************************aboutpage*********************/
+#about-page #home-image{
+    width: 85%;
+    
+    
+}
+    
+#about-page #profile-info{
+    float: right;
+width:30%;
+    margin: 5px;
+}
+/****************Contactpage**************/
+#contact #form
+{
+    width: 400px;
+    border:  4px solid green;
+    padding:10 px10px 0px 20px;
+    margin: 0 auto; 
+
+    
+}
+#contact #page-heading{
+    
+    text-align: center;
+    margin-bottom: 20px;
+}
+#contact #form input{
+    width:100%;
+    border-radius: 5px;
+    height: 20px;
+    background: #D6D6D6;
+    
+}
+#contact #form #msg{
+    border-radius:5px;
+    background: #D6D6D6;
+    
+    
+
+}
+#contact #form #submit{
+    height:25px;
+    background: teal;
+    
+    
+}
