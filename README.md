@@ -74,6 +74,4 @@ This project was created while learning HTML/CSS from Codecademy. It serves as a
 
 <img width="1430" height="765" alt="Screenshot 2025-12-02 at 8 27 39 PM" src="https://github.com/user-attachments/assets/f27362b0-9a6e-4439-a00c-074226f90b4b" />
 
-## 🙌 Credits
-
 Designed and coded by **Anshita Mehra**.
